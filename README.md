@@ -22,8 +22,9 @@ I'm a **Backend Developer** focused on building reliable, maintainable, and high
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua-oguejiofor&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshua-oguejiofor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 📫 **How to reach me:** [oguejijosh@gmail.com]
